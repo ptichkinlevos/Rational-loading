@@ -1,0 +1,2 @@
+b59eab93ad438ed27dc4db18d912e58acf90b3308f866968596b1755664bd7ec  README.md
+7eeedb1fd601f179a4c78327e2e13142d2864baba33c848eb66c13e0ec4e7f70  Задача №8 Задача о рациональной загрузке корабля.docx
